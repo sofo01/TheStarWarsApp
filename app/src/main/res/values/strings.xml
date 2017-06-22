@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TheStarWarsApp</string>
+    <string name="error_message">An Error has occurred. Please try again later!!</string>
+</resources>
